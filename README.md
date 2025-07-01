@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://petlover.infinityfreeapp.com" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/View%20Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" alt="Live Demo" />
   </a>
 </p>
